@@ -1,0 +1,1 @@
+<template>esto es un ejemplo</template>
